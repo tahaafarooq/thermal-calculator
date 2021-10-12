@@ -1,4 +1,4 @@
-#author is @xploiter121(TELEGRAM) , email : tahacodez@gmail.com
+#author is @tahaafarooq(TELEGRAM)
 """
     Cw  = Specific heat capacity of water
     Cal = Specific heat capacity of aluminium
